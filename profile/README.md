@@ -1,5 +1,5 @@
 <div align="center"><h2>Hello there! 👋</h2></div>
 
-**Welcome to TTNRT!**
+<div align="center"><b>Welcome to TTNRT!</b></div>
 
-I'm glad you're here today.
+<div align="center">I'm glad you're here today.</div>

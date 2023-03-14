@@ -1,3 +1,3 @@
-<h2 style="center">Hello there! 👋</h2>
+<h2 style="text-align: center;">Hello there! 👋</h2>
 
 Welcome to TTNRT!

@@ -4,8 +4,10 @@
 
 <div align="center">I'm glad you're here today.</div>
 
-<hr>
+<div align="center"><h2>Links</h2></div>
 
+<div align="center">
+  
 [GitTea](https://git.ttnrtsite.me/shaun)
 
 [Desktop](https://desktop.ttnrtsite.me/)
@@ -17,3 +19,5 @@
 [Docs](https://docs.ttnrtsite.me)
 
 [Status](https://status.ttnrtsite.me)
+  
+</div>

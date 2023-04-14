@@ -8,15 +8,15 @@
 
 <div align="center">
   
-[GitTea](https://git.ttnrtsite.me/shaun)
+<!-- [GitTea](https://git.ttnrtsite.me/shaun)
 
-[Desktop](https://desktop.ttnrtsite.me/)
+[Desktop](https://desktop.ttnrtsite.me/) -->
 
 [Wiki](https://wiki.ttnrtsite.me)
 
 [v86](https://virtual.ttnrtsite.me)
 
-[Docs](https://docs.ttnrtsite.me)
+<!-- [Docs](https://docs.ttnrtsite.me) -->
 
 [Status](https://status.ttnrtsite.me)
   

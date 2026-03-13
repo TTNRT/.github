@@ -1,4 +1,3 @@
-title: "[DISRUPTION] "
 body:
   - type: dropdown
     id: disruption-type
@@ -14,6 +13,7 @@ body:
     attributes:
       label: Start time
       description: When did this issue arise at?
+      placeholder: 1/12/2026 at 12:00 AM Eastern Time
     validations:
       required: true
   - type: input
@@ -21,6 +21,7 @@ body:
     attributes:
       label: Ending time
       description: When will this issue end at?
+      placeholder: 1/12/2026 at 12:00 AM Eastern Time
     validations:
       required: false
   - type: checkboxes

@@ -23,15 +23,6 @@ body:
       description: When will this issue end at?
     validations:
       required: false
-  - type: dropdown
-    id: affected-services
-    attributes:
-      label: 
-      options:
-        - Service degradation
-        - Scheduled maintenance
-    validations:
-      required: true
   - type: checkboxes
     attributes:
       label: Affected services

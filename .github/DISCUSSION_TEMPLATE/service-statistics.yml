@@ -1,0 +1,53 @@
+title: "[DISRUPTION] "
+body:
+  - type: dropdown
+    id: disruption-type
+    attributes:
+      label: What is the disruption type?
+      options:
+        - Service degradation
+        - Scheduled maintenance
+    validations:
+      required: true
+  - type: input
+    id: start-time
+    attributes:
+      label: Start time
+      description: When did this issue arise at?
+    validations:
+      required: true
+  - type: input
+    id: end-time
+    attributes:
+      label: Ending time
+      description: When will this issue end at?
+    validations:
+      required: false
+  - type: dropdown
+    id: affected-services
+    attributes:
+      label: 
+      options:
+        - Service degradation
+        - Scheduled maintenance
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Affected services
+      options:
+        - label: TTGit
+          required: true
+        - label: myTT
+          required: true
+        - label: Website
+          required: true
+        - label: Documentation
+          required: true
+  - type: textarea
+    id: disruption-information
+    attributes:
+      label: Information about this issue
+      description: Describe the service disruption
+    validations:
+      required: true

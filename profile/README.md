@@ -8,8 +8,7 @@ Have any questions or comments about us? Suggest an improvement to any of our we
 - [Main website](https://ttnrtsite.me)
   - [Backup link](https://backup.ttnrtsite.me)
 - [TTGit profile](https://git.ttnrtsite.me/TTNRT)
-- [myTT profile](https://my.ttnrtsite.me/user/2)
+- [myTT profile](https://ttnrtsite.me/user_profile?id=2)
 
 ### Contact methods
 - [Support email](mailto:support@ttnrtsite.me)
-- [Feedback form](https://feedback.ttnrtsite.me)

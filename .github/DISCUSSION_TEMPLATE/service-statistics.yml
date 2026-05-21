@@ -29,13 +29,15 @@ body:
       label: Affected services
       options:
         - label: TTGit
-          required: true
+          required: false
         - label: myTT
-          required: true
+          required: false
         - label: Website
-          required: true
+          required: false
         - label: Documentation
-          required: true
+          required: false
+        - label: None
+          required: false
   - type: textarea
     id: disruption-information
     attributes:

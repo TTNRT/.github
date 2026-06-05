@@ -9,6 +9,3 @@ Have any questions or comments about us? Suggest an improvement to any of our we
   - [Backup link](https://backup.ttnrtsite.me)
 - [TTGit profile](https://git.ttnrtsite.me/TTNRT)
 - [myTT profile](https://ttnrtsite.me/user_profile?id=2)
-
-### Contact methods
-- [Support email](mailto:support@ttnrtsite.me)
